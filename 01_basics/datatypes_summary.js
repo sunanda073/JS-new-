@@ -24,7 +24,7 @@ datatypes are mostly two types based on how data is stored in memory and accesse
 const heros = ["Shaktiman", "naagraj", "doraemon"]
 let myObj={
     name : "Sunanda",
-    age : 20,
+    age : 20
 }
 const myFunction=function(){
     console.log("Hello World !!!");
